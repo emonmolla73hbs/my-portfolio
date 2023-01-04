@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: aliceblue;
+}
+
+
+img {
+    height: 50px;
+}
+
+
+body{
+    background-color: dodgerblue;
+}
+
+#home_1{
+   /* background-color: rgb(33, 79, 124); */
+    background-image: url("About me bg.jpg");
+    background-position: center center, center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 80vh;
+    text-align: center;
+}
+
+
+#nav{
+    text-align: right;
+}
+
+button{
+    background-color: slateblue;
+    color:aliceblue;
+    border: solid aliceblue;
+}
+
